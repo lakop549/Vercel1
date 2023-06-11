@@ -12,7 +12,7 @@ export default function developers() {
             <article class="flex flex-col my-4 p-4">
               <div style={{ display: 'flex', justifyContent: 'flex-start' }}>
                 <iframe
-                  src="https://www.youtube.com/embed/kEIy4bBoJwM"
+                  src="https://www.youtube.com/embed/BuhOsnBJDtc"
                   frameBorder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
